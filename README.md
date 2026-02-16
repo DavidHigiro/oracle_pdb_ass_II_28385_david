@@ -85,6 +85,6 @@ This work complies with the academic integrity guidelines provided in the assign
 ---
 
 ## 9. Submission Information
-- **Repository Link:** (paste your GitHub repository link here)
+- **Repository Link:** (https://github.com/DavidHigiro/oracle_pdb_ass_II_28385_david.git)
 - **PDB Name Created:** da_pdb_28385
 - **Issues Encountered:** Yes / No
